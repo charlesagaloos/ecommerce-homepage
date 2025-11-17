@@ -1,8 +1,8 @@
-# 24-Hour Code Challenge – Web Shop Frontpage
+# Web Shop Frontpage
 
 ## Project Overview
 This project is the implementation of a **responsive front page for a web shop**.  
-It was built as part of a **24-hour code challenge** to showcase skills in **HTML and SCSS**.
+
 
 - **Goal:** Build a pixel-perfect front page based on the provided Sketch/InVision wireframe.
 - **Scope:** Only the homepage is implemented.
